@@ -1,2 +1,2 @@
 # qt-opengl-video-player-demo
-An example, demonstrate how to hw-decode and render video use opengl
+这是一个演示程序。使用FFMpeg硬解码，然后用QOpenGLWidget渲染视频
